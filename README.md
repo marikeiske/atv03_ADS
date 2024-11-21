@@ -1,6 +1,6 @@
-#Olá tudo bem? Eu sou a Mariana e desenvolovi essas 03 atividades usando a biblioteca streamlit
+# Olá, tudo bem? Meu nome é Mariana Keiske, e desenvolvi estas três atividades utilizando a biblioteca Streamlit 📔
 
-#ATV 01
+# ATV 01 💡
 Calculadora Trigonométrica em Python
 
 * Objetivo: Criar um aplicativo em Python que utilize as funções trigonométricas da biblioteca math para calcular distâncias e ângulos em um triângulo retângulo.
@@ -8,7 +8,7 @@ Calculadora Trigonométrica em Python
 Entrada do usuário:
 O usuário deve ser capaz de inserir o comprimento de dois lados de um triângulo retângulo ou o comprimento de um lado e um ângulo (em graus).
 
-1) Cálculo de distâncias:
+1)  Cálculo de distâncias:
 Se o usuário inserir o comprimento de dois lados, o aplicativo deve calcular o comprimento do terceiro lado usando o Teorema de Pitágoras e as funções trigonométricas.
 
 2) Cálculo de ângulos:
@@ -18,7 +18,7 @@ Se o usuário inserir o comprimento de um lado e um ângulo, o aplicativo deve c
 O aplicativo deve exibir os resultados dos cálculos, incluindo o comprimento dos três lados e os três ângulos (em graus).
 
 
-#ATV 02
+# ATV 02 💡
 Simulador de Loteria em Python
 
 bjetivo: Criar um aplicativo em Python que simule um jogo de loteria, utilizando as funções da biblioteca random para gerar números aleatórios e exibir os resultados.
@@ -48,7 +48,7 @@ Funcionalidades:
 
 
 
-#ATV 03
+# ATV 03 💡
 Analisador de Texto em Python
 
 bjetivo: Criar um aplicativo em Python que utiliza funções de manipulação de strings para analisar um texto fornecido pelo usuário.
